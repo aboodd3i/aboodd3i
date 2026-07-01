@@ -36,7 +36,7 @@ I like understanding things from the ground up.
 
 ## 🔥 MORE PROJECTS
 
-### 🚗 Automated Parking Allocation System
+### Automated Parking Allocation System 🚗
 **[GitHub Repo](https://github.com/aboodd3i/Parking-Allocation-System)**
 
 A CLI-based parking management system built in **C (Linux environment)** using the **ncurses library**.  
@@ -52,12 +52,12 @@ To ensure fairness, it implements an **aging mechanism** to prevent starvation o
 
 ---
 
-### 📧 COAL MINER
+### COAL MINER ⛏️
 **[GitHub Repo](https://github.com/aboodd3i/COAL-MINER)**
 
 A 2D **x86 Assembly-based shooter game** where a miner navigates a hostile environment, collecting gold while avoiding falling rocks and attacking bats.
 
-Built at a low level to understand system control, memory handling, and direct hardware interaction.
+Built at a assembly language to understand system control, memory handling, and direct hardware interaction.
 
 <br>
 
@@ -66,7 +66,7 @@ Built at a low level to understand system control, memory handling, and direct h
 
 ---
 
-### 🎮 Aerial Defenders
+### Aerial Defenders 🛩️
 **[GitHub Repo](https://github.com/aboodd3i/Aerial_Defenders)**
 
 A **2D space shooter game** built in **C++** using **SFML**.  
@@ -85,11 +85,20 @@ Focus was on real-time rendering, game loops, collision detection, and modular g
 
 ---
 
-## 🏆 HIGHLIGHTS
+## 🏆 HIGHLIGHTS ⚡⚡⚡
+<sub><i>systems, code, and everything in between</i></sub>
 
-| 🎮 **Low-Level Programming** | 🤖 **Machine Learning** | 📱 **Mobile Development** | 💻 **Full-Stack Projects** |
-|---|---|---|---|
-| Assembly language games for DOS | Neural networks & classification | React Native CRUD applications | Python + JavaScript solutions |
+| 🚀 Tech Entrepreneurship |
+|--------------------------|
+| 🧠 Builder mindset focused on creating end-to-end products from idea to execution. <br> 🚀 Founded and actively developing early-stage platforms in education and career validation systems. <br> ⚙️ Interested in scalable systems that combine AI, data, and real-world impact. |
+
+| 🤖 System Automation | 🧠 AI Mastery |
+|----------------------|--------------|
+| ⚙️ Designing automation systems and workflow tools during real internship environments. <br> 🤖 Working on automation agents, backend tooling, and process optimization systems. | 🧠 Built AI/ML systems using **LLMs, APIs, and classical algorithms** including A*, CSPs, and genetic algorithms. <br> 📊 Focused on applied intelligence rather than just model training — solving real problems with AI. |
+
+| 🌐 Full-Stack Development | 💻 Software Development |
+|---------------------------|------------------------|
+| 🌐 Building modern web and app systems using **React, Node.js, JavaScript/TypeScript**, and API-driven architectures. <br> ⚡ Focused on scalable frontend-backend integration and real-world product delivery. | 💻 Strong foundation in **C/C++ systems programming**, data structures, and software design principles. <br> 🎮 Applied skills through SFML game development and low-level programming experiments (including x86 assembly). |
 
 ---
 
