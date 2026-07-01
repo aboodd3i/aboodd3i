@@ -181,5 +181,5 @@ Focus was on real-time rendering, game loops, collision detection, and modular g
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gulglitch&color=D85A30&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aboodd3i&color=D85A30&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
