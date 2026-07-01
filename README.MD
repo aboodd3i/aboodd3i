@@ -13,6 +13,7 @@ I build systems across full-stack web, AI, and low-level computing — from web 
 
 I like understanding things from the ground up.
 
+- 🚀 Founded and actively developing early-stage platforms in education and career validation systems.
 - 🔭 Currently working on **full-stack applications**, **AI/ML systems**, and **automation tooling**
 - 🧠 Building AI systems with **Python, LLMs, APIs**, and classical algorithms (A*, CSPs, genetic algorithms)
 - ⚙️ Strong experience in **C/C++**, building multiple 2D games using **SFML**
