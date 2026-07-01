@@ -115,9 +115,15 @@ Focus was on real-time rendering, game loops, collision detection, and modular g
 
 ---
 
-## 🐍 Sys Activity Snake 
+## 🐍 SYS ACTIVITY TRACE 
 
-![snake animation](https://github.com/aboodd3i/aboodd3i/blob/output/snake.svg)
+<p align="center">
+  <img src="https://github.com/aboodd3i/github-snake/blob/output/snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/aboodd3i/github-snake/blob/output/snake-dark.svg" />
+</p>
 
 ---
 
