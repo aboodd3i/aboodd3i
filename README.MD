@@ -3,7 +3,7 @@
 <!-- Animated typing header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full-stack+engineer+focused+on+AI+systems%2C+automation%2C+and+scalable+backend+architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1500&color=D85A30&center=true&vCenter=true&width=680&lines=Full-stack+engineer+focused+on+AI+systems;Full-stack+engineer+focused+on+AI+systems+%7C+automation+%7C+backend+architecture" />
 </p>
 
 ---
