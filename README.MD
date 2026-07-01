@@ -3,7 +3,7 @@
 <!-- Animated typing header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=17&pause=1200&color=D85A30&center=true&vCenter=true&width=1200&lines=Full-stack+engineer+focused+on+AI+systems%2C+automation%2C+and+scalable+backend+architecture" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=17&pause=1200&color=D85A30&center=true&vCenter=true&width=1200&lines=Full-stack+engineer+focused+on+AI+systems%2C+automation%2C+and+scalable+backend+architecture." />
 </p>
 
 ---
@@ -118,7 +118,7 @@ Focus was on real-time rendering, game loops, collision detection, and modular g
 ## 🐍 SYS ACTIVITY TRACE 
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/github-snake/blob/output/snake-dark.svg" />
+  <img src="https://github.com/aboodd3ii/github-snake/blob/output/snake-dark.svg" />
 </p>
 
 ---
