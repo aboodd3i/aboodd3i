@@ -2,16 +2,14 @@
 
 <!-- Animated typing header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Front-End+Developer+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1200&color=D85A30&center=true&vCenter=true&width=680&lines=Full-stack+engineer;Focused+on+AI%2C+automation%2C+and+scalable+backend+systems" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I build systems across full-stack web, AI, and low-level computing — from web apps and automation pipelines to game engines and experimental AI systems.
-
-I like understanding things from the ground up.
+I build systems across full-stack web, AI, and low-level computing. From web apps and automation pipelines to game engines and experimental AI systems, I like understanding things from the ground up.
 
 - 🚀 Founded and actively developing early-stage platforms in education and career validation systems.
 - 🔭 Currently working on **full-stack applications**, **AI/ML systems**, and **automation tooling**
