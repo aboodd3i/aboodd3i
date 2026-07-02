@@ -81,12 +81,12 @@ Focus was on real-time rendering, game loops, collision detection, and modular g
 ![Game Dev](https://img.shields.io/badge/Game_Development-FF6F00?style=flat-square)
 
 ---
-> 👉 See pinned repos below for live demos and code!
+> 👉 Also see the pinned repos for live demos and code!
 
 ---
 
 ## 🏆 HIGHLIGHTS ⚡⚡⚡
-<sub><i>systems, code, and everything in between</i></sub>
+<sub><i>hustle, code, and everything in between</i></sub>
 
 | 🚀 Tech Entrepreneurship |
 |--------------------------|
